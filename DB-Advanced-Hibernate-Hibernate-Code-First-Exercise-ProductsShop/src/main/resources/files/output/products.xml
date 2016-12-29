@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <product_name>TRAMADOL HYDROCHLORIDE</product_name>
+        <price>516.48</price>
+    </product>
+    <product>
+        <product_name>Allopurinol</product_name>
+        <price>518.50</price>
+        <buyer_last_name>Harrison</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Parsley</product_name>
+        <price>519.06</price>
+    </product>
+    <product>
+        <product_name>equaline</product_name>
+        <price>520.45</price>
+    </product>
+    <product>
+        <product_name>Extra Strength Pain Reliever PM</product_name>
+        <price>542.72</price>
+    </product>
+    <product>
+        <product_name>Propranolol Hydrochloride</product_name>
+        <price>546.95</price>
+    </product>
+    <product>
+        <product_name>Prednisone</product_name>
+        <price>550.72</price>
+    </product>
+    <product>
+        <product_name>TERSI</product_name>
+        <price>554.91</price>
+    </product>
+    <product>
+        <product_name>DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER</product_name>
+        <price>555.12</price>
+    </product>
+    <product>
+        <product_name>PLANTAGO LANCEOLATA POLLEN</product_name>
+        <price>561.68</price>
+        <buyer_first_name>Sarah</buyer_first_name>
+        <buyer_last_name>Day</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Echinacea Quartz Gum Support</product_name>
+        <price>570.08</price>
+    </product>
+    <product>
+        <product_name>Topiramate</product_name>
+        <price>578.77</price>
+        <buyer_last_name>Fox</buyer_last_name>
+    </product>
+    <product>
+        <product_name>AIR</product_name>
+        <price>581.69</price>
+    </product>
+    <product>
+        <product_name>Agaricus Equisetum Special Order</product_name>
+        <price>585.93</price>
+        <buyer_last_name>Mitchell</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Gemcitabine</product_name>
+        <price>594.79</price>
+        <buyer_first_name>Carl</buyer_first_name>
+        <buyer_last_name>Daniels</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Ketorolac Tromethamine</product_name>
+        <price>608.18</price>
+    </product>
+    <product>
+        <product_name>Pleo Ginkgo</product_name>
+        <price>613.65</price>
+    </product>
+    <product>
+        <product_name>Diastat</product_name>
+        <price>614.14</price>
+    </product>
+    <product>
+        <product_name>No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory</product_name>
+        <price>616.19</price>
+    </product>
+    <product>
+        <product_name>Glipizide</product_name>
+        <price>621.78</price>
+        <buyer_first_name>Jonathan</buyer_first_name>
+        <buyer_last_name>Rodriguez</buyer_last_name>
+    </product>
+    <product>
+        <product_name>AMARANTHUS PALMERI POLLEN</product_name>
+        <price>623.16</price>
+        <buyer_first_name>Patricia</buyer_first_name>
+        <buyer_last_name>Cooper</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Foaming Hand Sanitizer</product_name>
+        <price>624.72</price>
+    </product>
+    <product>
+        <product_name>ziprasidone hydrochloride</product_name>
+        <price>628.66</price>
+    </product>
+    <product>
+        <product_name>AVANDAMET</product_name>
+        <price>632.08</price>
+    </product>
+    <product>
+        <product_name>Imipramine Hydrochloride</product_name>
+        <price>648.69</price>
+        <buyer_last_name>Bennett</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Childrens Allegra Allergy</product_name>
+        <price>650.97</price>
+        <buyer_last_name>Harrison</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Strattera</product_name>
+        <price>658.54</price>
+        <buyer_first_name>Billy</buyer_first_name>
+        <buyer_last_name>Parker</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Amitiza</product_name>
+        <price>666.58</price>
+    </product>
+    <product>
+        <product_name>ENBREL</product_name>
+        <price>673.97</price>
+    </product>
+    <product>
+        <product_name>Ampicillin</product_name>
+        <price>674.63</price>
+        <buyer_first_name>Clarence</buyer_first_name>
+        <buyer_last_name>Fowler</buyer_last_name>
+    </product>
+    <product>
+        <product_name>PRIMAXIN</product_name>
+        <price>686.66</price>
+    </product>
+    <product>
+        <product_name>CLARINS Ever Matte SPF 15 - 105 Nude</product_name>
+        <price>696.06</price>
+        <buyer_first_name>Benjamin</buyer_first_name>
+        <buyer_last_name>Henry</buyer_last_name>
+    </product>
+    <product>
+        <product_name>CALMING DIAPER RASH</product_name>
+        <price>700.92</price>
+    </product>
+    <product>
+        <product_name>Acnezzol Base</product_name>
+        <price>710.60</price>
+    </product>
+    <product>
+        <product_name>Prostate</product_name>
+        <price>716.05</price>
+    </product>
+    <product>
+        <product_name>Pleo Lat</product_name>
+        <price>720.08</price>
+    </product>
+    <product>
+        <product_name>GOONG SECRET CALMING BATH</product_name>
+        <price>742.47</price>
+    </product>
+    <product>
+        <product_name>Warfarin Sodium</product_name>
+        <price>770.05</price>
+    </product>
+    <product>
+        <product_name>Pollens - Weeds and Garden Plants, Nettle Urtica dioica</product_name>
+        <price>782.77</price>
+        <buyer_last_name>Fox</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Isosorbide Mononitrate</product_name>
+        <price>789.91</price>
+        <buyer_first_name>Patricia</buyer_first_name>
+        <buyer_last_name>Fuller</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Naproxen</product_name>
+        <price>807.22</price>
+    </product>
+    <product>
+        <product_name>Meloxicam</product_name>
+        <price>809.18</price>
+        <buyer_first_name>Nicole</buyer_first_name>
+        <buyer_last_name>Martinez</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Clarins Paris Skin Illusion - 114 cappuccino</product_name>
+        <price>811.42</price>
+    </product>
+    <product>
+        <product_name>Azithromycin</product_name>
+        <price>813.87</price>
+    </product>
+    <product>
+        <product_name>LV-FX</product_name>
+        <price>820.87</price>
+    </product>
+    <product>
+        <product_name>IOPE SUPER VITAL</product_name>
+        <price>824.68</price>
+    </product>
+    <product>
+        <product_name>Aquafresh</product_name>
+        <price>849.93</price>
+    </product>
+    <product>
+        <product_name>RESCRIPTOR</product_name>
+        <price>850.52</price>
+        <buyer_first_name>Nicole</buyer_first_name>
+        <buyer_last_name>Harris</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Moore Medical Sinus Pain and Pressure Relief</product_name>
+        <price>855.39</price>
+        <buyer_first_name>Ann</buyer_first_name>
+        <buyer_last_name>Stevens</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Shopko Lip Treatment</product_name>
+        <price>861.42</price>
+        <buyer_first_name>Jennifer</buyer_first_name>
+        <buyer_last_name>Riley</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Perrigo Benzoyl Peroxide</product_name>
+        <price>873.24</price>
+    </product>
+    <product>
+        <product_name>ESIKA</product_name>
+        <price>879.37</price>
+    </product>
+    <product>
+        <product_name>Levothyroxine Sodium</product_name>
+        <price>885.86</price>
+        <buyer_first_name>Clarence</buyer_first_name>
+        <buyer_last_name>Fowler</buyer_last_name>
+    </product>
+    <product>
+        <product_name>EPZICOM</product_name>
+        <price>895.65</price>
+        <buyer_first_name>Diana</buyer_first_name>
+        <buyer_last_name>Harvey</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Myristica Argentum Sinus Relief</product_name>
+        <price>904.52</price>
+        <buyer_first_name>Fred</buyer_first_name>
+        <buyer_last_name>Barnes</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Aspirin</product_name>
+        <price>925.45</price>
+    </product>
+    <product>
+        <product_name>Ranitidine</product_name>
+        <price>926.64</price>
+    </product>
+    <product>
+        <product_name>Care One Hemorrhoidal</product_name>
+        <price>932.18</price>
+    </product>
+    <product>
+        <product_name>Spironolactone</product_name>
+        <price>933.69</price>
+        <buyer_first_name>Carl</buyer_first_name>
+        <buyer_last_name>Daniels</buyer_last_name>
+    </product>
+    <product>
+        <product_name>pain relief</product_name>
+        <price>938.23</price>
+    </product>
+    <product>
+        <product_name>Glipizide and Metformin Hydrochloride</product_name>
+        <price>953.60</price>
+        <buyer_last_name>Stewart</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Metformin Hydrochloride</product_name>
+        <price>953.99</price>
+        <buyer_last_name>Mitchell</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Homeopathic Rheumatism</product_name>
+        <price>967.08</price>
+    </product>
+    <product>
+        <product_name>NEO-POLY-BAC HYDRO</product_name>
+        <price>967.32</price>
+        <buyer_last_name>Bennett</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Clearskin</product_name>
+        <price>968.59</price>
+        <buyer_first_name>Nicole</buyer_first_name>
+        <buyer_last_name>Martinez</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Dawn Ultra Antibacterial Hand</product_name>
+        <price>969.86</price>
+        <buyer_last_name>Baker</buyer_last_name>
+    </product>
+    <product>
+        <product_name>Megestrol Acetate</product_name>
+        <price>976.15</price>
+    </product>
+    <product>
+        <product_name>Smooth texture Orange flavor</product_name>
+        <price>976.65</price>
+    </product>
+    <product>
+        <product_name>Retin-A MICRO</product_name>
+        <price>995.98</price>
+    </product>
+</products>
